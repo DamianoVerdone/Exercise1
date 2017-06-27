@@ -1,1 +1,5 @@
+/.idea
+/wallethub.iml
+/out
 /target/
+.DS_Store
