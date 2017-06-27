@@ -1,0 +1,3 @@
+select init_cap('hello word!!!');
+select init_cap('  heLlo  words !!!  ');
+select init_cap('  threE diFerenT words !!!  ');

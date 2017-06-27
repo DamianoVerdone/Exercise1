@@ -1,0 +1,20 @@
+
+DROP TABLE IF EXISTS `votes`;
+
+CREATE TABLE `votes` (
+  `name` char(10) DEFAULT NULL,
+  `votes` int(11) DEFAULT NULL
+) ENGINE=InnoDB DEFAULT CHARSET=utf8;
+
+
+
+INSERT INTO `votes` (`name`, `votes`)
+VALUES
+	('Smith',10),
+	('Jones',15),
+	('White',20),
+	('Black',40),
+	('Green',50),
+	('Brown',20);
+
+

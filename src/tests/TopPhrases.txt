@@ -1,0 +1,14 @@
+a|b|a|b|c|d|e|f|g|h                         [g,  , a]          top 3
+f|g|H|y|c|g|e|v|V|v
+a| | | | | | | | |
+
+a|b|a|b|c|d|e|f|g|h                         [v, g, a]          top 3
+f|g|H|y|c|g|e|v|V|v
+a
+
+q                                             [q, ]            top 3
+\n
+\n
+
+
+The others test files was too big.
